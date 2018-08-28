@@ -119,6 +119,7 @@
     "react": ">=0.14.7"
   },
   "jest": {
+    "testURL": "http://localhost",
     "setupFiles": [
       "./src/tests/helpers/jestSetup.js"
     ],
